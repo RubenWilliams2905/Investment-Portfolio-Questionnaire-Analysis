@@ -19,6 +19,7 @@ Dashboard
 Downloadable file attached
 <img width="1077" height="607" alt="Investment portfolio analysis page 1" src="https://github.com/user-attachments/assets/cb6bd8dc-c907-42de-9f64-e73465bab667" />
 <img width="1083" height="612" alt="Investment Portfolio Analysis page 2" src="https://github.com/user-attachments/assets/8a82e235-e9ad-4671-a8f2-dfd73baaea5c" />
-<img width="1089" height="608" alt="Investment Portfolio Analysis page 3" src="https://github.com/user-attachments/assets/2f4f0c73-adf4-4b2f-a7ee-49d0dc2eb07a" />
+<img width="1219" height="687" alt="Investment Portfolio Analysis page 3" src="https://github.com/user-attachments/assets/1e44a487-90bd-4f9e-9640-369edd7a2e59" />
+
 
 
