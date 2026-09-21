@@ -1,19 +1,20 @@
 # Investment-Portfolio-Questionnaire-Analysis
 This is my project analysing data gathered from questionnaires about investment portfolios during the COVID-19 lockdown period. I have created multiple queries using MySQL and ported these queries into a PowerBI dashboard to showcase this data. 
 
-Dataset Used
+Dataset Used:
 <a href=https://www.kaggle.com/datasets/nitindatta/finance-data>Dataset</a>
-Questions KPIs
--- Q1. What are the gender mix of investors in this questionnaire?
--- Q2. what is the age mix of investors in this questionnaire?
--- Q3. What do the responders consider the most important method vs the least important?
--- Q4. Why do the responders choose to invest and what risks do they take into account?
--- Q5. Where do the investors get their information from and what are their savings objectives?
--- Q6. How frequently do they monitor their investments based on the method they pick?
--- Q7. Reasons why investors would chose equity as their avenue
--- Q8. Reasons why investors would chose Mutuals as their avenue
--- Q9. Reasons why investors would chose Government Bonds as their avenue
--- Q10. Reasons why investors would chose Fixed Deposits as their avenue
+Questions KPIs:
+•	Q1. Gender ratio of investors
+•	Q2. Age groups of investors
+•	Q3. Most important investment method vs least important
+•	Q4. Reasons and Risks for investing 
+•	Q5. Sources based on their savings objectives 
+•	Q6. Avenues by investment duration and how often they monitor their investments
+•	Q7. Reasons why investors would choose equity as their avenue
+•	Q8. Reasons why investors would choose Mutuals as their avenue
+•	Q9. Reasons why investors would choose Government Bonds as their avenue
+•	Q10. Reasons why investors would choose Fixed Deposits as their avenue
+
 
 Dashboard
 Downloadable file attached
